@@ -7,6 +7,7 @@ Last updated: 2026-06-14
 - [[afrepp-constipation-rectocele-sgum]] -- Constipation, rectocèle, prolapsus rectal, SGUM, THM (2026-06-14)
 - [[afrepp-allaitement-cesarienne-reeducation]] -- Allaitement, césarienne, LOSA, rééducation post-partum (2026-06-14)
 - [[afrepp-fissure-anale-vaginoplastie]] -- Fissure anale, vaginoplastie MTF, patients transgenres, endométriose HAS (2026-06-14)
+- [[afrepp-pediatrie-vulvodynies-tritherapie]] -- Pédiatrie périnéale, vulvodynies, névralgie pudendale (2026-06-14)
 
 ## Anatomie & Physiologie
 - [[plancher-pelvien]] -- Concept pivot : muscles, ligaments, innervation périnéale (2026-06-14)
@@ -21,6 +22,15 @@ Last updated: 2026-06-14
 
 ## Gynécologie & Chirurgie
 - [[endometriose-chirurgie]] -- Tableau HAS chirurgical par localisation (2026-06-14)
+- [[vulvodynies]] -- Vulvodynies, lichen scléreux/plan, trithérapie (acide hyaluronique + microbiote + vasculaire) (2026-06-14)
+
+## Pédiatrie
+- [[pediatrie-perinee]] -- Communication pédiatrique, violences sexuelles, lieu safe (2026-06-14)
+- [[immaturite-vesicale-enfant]] -- Immaturité vésicale, CVF, urothérapie, SNT pédiatrique (2026-06-14)
+- [[malformations-anorectales]] -- MAR, scores Krickenbeck/Rintala, SNT enfant (2026-06-14)
+
+## Douleur Pelvienne
+- [[nevralgie-pudendale]] -- Critères de Nantes, varices pelviennes, congestion pelvienne (2026-06-14)
 
 ## Ménopause & Hormones
 - [[sgum]] -- Syndrome génito-urinaire de la ménopause ; 3 clusters de symptômes (2026-06-14)

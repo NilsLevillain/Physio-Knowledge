@@ -16,3 +16,6 @@ Compilation du PDF AFREPP allaitement-césarienne en source-summary + entités (
 
 ## [2026-06-14] compile | AFREPP — Fissure Anale, Vaginoplastie et Patients Transgenres
 Compilation du PDF AFREPP fissure-vaginoplastie en source-summary + 4 entités : fissure anale, patients transgenres, vaginoplastie-et-perinee, endometriose-chirurgie.
+
+## [2026-06-14] compile | AFREPP — Pédiatrie, Vulvodynies et Trithérapie
+Compilation du PDF AFREPP pédiatrie en source-summary + 5 entités : pediatrie-perinee, immaturite-vesicale-enfant, malformations-anorectales, vulvodynies, nevralgie-pudendale.

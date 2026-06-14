@@ -28,6 +28,8 @@ Le périnée descendant provoque des lésions neuropathiques par étirement du n
 - [[incontinence-fecale]]
 - [[plancher-pelvien]]
 - [[losa]]
+- [[nevralgie-pudendale]]
+- [[vulvodynies]]
 - [[afrepp-troubles-ano-rectaux-grossesse]]
 
 ## Counter-Arguments and Gaps
