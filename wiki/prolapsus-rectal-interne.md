@@ -29,10 +29,12 @@ Causé par l'intussusception de la paroi antérieure du rectum :
 Le PRI fait partie des pathologies "immergées" de l'iceberg de la douleur pelvienne chronique — souvent sous-diagnostiqué chez les patientes consultant pour autre chose (incontinence, constipation).
 
 ## See Also
+- [[prolapsus-rectal]] -- vue complète : classification, diagnostic, BDK, PEC
 - [[rectocele]]
 - [[incontinence-fecale]]
 - [[constipation-fonctionnelle]]
 - [[plancher-pelvien]]
+- [[afrepp-prolapsus-rectal]]
 - [[afrepp-constipation-rectocele-sgum]]
 - [[afrepp-troubles-ano-rectaux-grossesse]]
 

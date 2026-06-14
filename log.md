@@ -19,3 +19,6 @@ Compilation du PDF AFREPP fissure-vaginoplastie en source-summary + 4 entités :
 
 ## [2026-06-14] compile | AFREPP — Pédiatrie, Vulvodynies et Trithérapie
 Compilation du PDF AFREPP pédiatrie en source-summary + 5 entités : pediatrie-perinee, immaturite-vesicale-enfant, malformations-anorectales, vulvodynies, nevralgie-pudendale.
+
+## [2026-06-14] compile | AFREPP — Prolapsus Rectal
+Compilation du PDF AFREPP prolapsus-rectal en source-summary + 1 entité complète : prolapsus-rectal (classification, BDK, PEC, chirurgie, adhérence). Mise à jour de prolapsus-rectal-interne.

@@ -8,6 +8,7 @@ Last updated: 2026-06-14
 - [[afrepp-allaitement-cesarienne-reeducation]] -- Allaitement, césarienne, LOSA, rééducation post-partum (2026-06-14)
 - [[afrepp-fissure-anale-vaginoplastie]] -- Fissure anale, vaginoplastie MTF, patients transgenres, endométriose HAS (2026-06-14)
 - [[afrepp-pediatrie-vulvodynies-tritherapie]] -- Pédiatrie périnéale, vulvodynies, névralgie pudendale (2026-06-14)
+- [[afrepp-prolapsus-rectal]] -- Classification, BDK complet, chirurgie, adhérence thérapeutique (2026-06-14)
 
 ## Anatomie & Physiologie
 - [[plancher-pelvien]] -- Concept pivot : muscles, ligaments, innervation périnéale (2026-06-14)
@@ -18,6 +19,7 @@ Last updated: 2026-06-14
 - [[constipation-fonctionnelle]] -- Critères Rome IV, ménopause, liens statique pelvienne (2026-06-14)
 - [[rectocele]] -- Hernie rectale antérieure ; dyschésie, manœuvres, prise en charge (2026-06-14)
 - [[prolapsus-rectal-interne]] -- Intussusception rectale ; stades, IA, constipation (2026-06-14)
+- [[prolapsus-rectal]] -- Classification complète, BDK, chirurgie (ventropexie), adhérence (2026-06-14)
 - [[fissure-anale]] -- Fissure chronique, algorithme de PEC, cicatrisation 8-12 semaines (2026-06-14)
 
 ## Gynécologie & Chirurgie
