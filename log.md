@@ -22,3 +22,6 @@ Compilation du PDF AFREPP pédiatrie en source-summary + 5 entités : pediatrie-
 
 ## [2026-06-14] compile | AFREPP — Prolapsus Rectal
 Compilation du PDF AFREPP prolapsus-rectal en source-summary + 1 entité complète : prolapsus-rectal (classification, BDK, PEC, chirurgie, adhérence). Mise à jour de prolapsus-rectal-interne.
+
+## [2026-06-14] compile | AFREPP — Excision, Vaginisme, Vulvodynie et Endométriose
+Compilation du PDF AFREPP compressé en source-summary + 3 entités : mutilations-sexuelles-feminines, vaginisme (EBP complet), sensibilisation-centrale-pelvienne. Mise à jour vulvodynies.

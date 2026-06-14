@@ -51,11 +51,14 @@ Dermatose inflammatoire chronique entraînant une **modification architecturale 
 Dans le SGUM : **pas d'effet du traitement par voie générale** sur les vulvodynies locales ; en revanche, **crème, ovule ou anneau à libération hormonale** (3/4 mois) sont efficaces localement.
 
 ## See Also
+- [[vaginisme]] -- les vulvodynies peuvent causer un vaginisme secondaire
+- [[sensibilisation-centrale-pelvienne]]
 - [[nevralgie-pudendale]]
 - [[sgum]]
 - [[plancher-pelvien]]
 - [[nerf-pudendal]]
 - [[afrepp-pediatrie-vulvodynies-tritherapie]]
+- [[afrepp-excision-vaginisme-vulvodynie-endometriose]]
 
 ## Counter-Arguments and Gaps
 - Les vulvodynies restent sous-diagnostiquées et souvent étiquetées comme "psychosomatiques" — délai diagnostique moyen de plusieurs années.

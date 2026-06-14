@@ -9,6 +9,7 @@ Last updated: 2026-06-14
 - [[afrepp-fissure-anale-vaginoplastie]] -- Fissure anale, vaginoplastie MTF, patients transgenres, endométriose HAS (2026-06-14)
 - [[afrepp-pediatrie-vulvodynies-tritherapie]] -- Pédiatrie périnéale, vulvodynies, névralgie pudendale (2026-06-14)
 - [[afrepp-prolapsus-rectal]] -- Classification, BDK complet, chirurgie, adhérence thérapeutique (2026-06-14)
+- [[afrepp-excision-vaginisme-vulvodynie-endometriose]] -- MSF, vaginisme EBP, sensibilisation centrale pelvienne (2026-06-14)
 
 ## Anatomie & Physiologie
 - [[plancher-pelvien]] -- Concept pivot : muscles, ligaments, innervation périnéale (2026-06-14)
@@ -25,6 +26,11 @@ Last updated: 2026-06-14
 ## Gynécologie & Chirurgie
 - [[endometriose-chirurgie]] -- Tableau HAS chirurgical par localisation (2026-06-14)
 - [[vulvodynies]] -- Vulvodynies, lichen scléreux/plan, trithérapie (acide hyaluronique + microbiote + vasculaire) (2026-06-14)
+- [[mutilations-sexuelles-feminines]] -- MSF types OMS, conséquences, chirurgie SS, protocole communication (2026-06-14)
+
+## Sexologie & Douleur Pelvienne
+- [[vaginisme]] -- DSM-V, 3 types, toucher thérapeutique EBP, facilitateurs vaginaux, protocole (2026-06-14)
+- [[sensibilisation-centrale-pelvienne]] -- Sensibilisation centrale, Score Convergences PP, RPC, violences, pluridisciplinarité (2026-06-14)
 
 ## Pédiatrie
 - [[pediatrie-perinee]] -- Communication pédiatrique, violences sexuelles, lieu safe (2026-06-14)
