@@ -6,6 +6,7 @@ Last updated: 2026-06-14
 - [[afrepp-troubles-ano-rectaux-grossesse]] -- Troubles ano-rectaux, grossesse, péridurale, incontinence (2026-06-14)
 - [[afrepp-constipation-rectocele-sgum]] -- Constipation, rectocèle, prolapsus rectal, SGUM, THM (2026-06-14)
 - [[afrepp-allaitement-cesarienne-reeducation]] -- Allaitement, césarienne, LOSA, rééducation post-partum (2026-06-14)
+- [[afrepp-fissure-anale-vaginoplastie]] -- Fissure anale, vaginoplastie MTF, patients transgenres, endométriose HAS (2026-06-14)
 
 ## Anatomie & Physiologie
 - [[plancher-pelvien]] -- Concept pivot : muscles, ligaments, innervation périnéale (2026-06-14)
@@ -16,6 +17,10 @@ Last updated: 2026-06-14
 - [[constipation-fonctionnelle]] -- Critères Rome IV, ménopause, liens statique pelvienne (2026-06-14)
 - [[rectocele]] -- Hernie rectale antérieure ; dyschésie, manœuvres, prise en charge (2026-06-14)
 - [[prolapsus-rectal-interne]] -- Intussusception rectale ; stades, IA, constipation (2026-06-14)
+- [[fissure-anale]] -- Fissure chronique, algorithme de PEC, cicatrisation 8-12 semaines (2026-06-14)
+
+## Gynécologie & Chirurgie
+- [[endometriose-chirurgie]] -- Tableau HAS chirurgical par localisation (2026-06-14)
 
 ## Ménopause & Hormones
 - [[sgum]] -- Syndrome génito-urinaire de la ménopause ; 3 clusters de symptômes (2026-06-14)
@@ -25,3 +30,7 @@ Last updated: 2026-06-14
 - [[losa]] -- Lésion Obstétricale du Sphincter Anal ; voie d'accouchement (2026-06-14)
 - [[allaitement-et-perinee]] -- Impact hormonal de l'allaitement sur le tonus périnéal (2026-06-14)
 - [[reeducation-post-partum]] -- Recommandations rééducation post-partum et post-césarienne (2026-06-14)
+
+## Patients Transgenres
+- [[patients-transgenres]] -- Prise en charge kiné ; 65 % discrimination ; FTM/MTF ; principes (2026-06-14)
+- [[vaginoplastie-et-perinee]] -- Rééducation périnéale post-vaginoplastie MTF ; dilatation néovagin (2026-06-14)

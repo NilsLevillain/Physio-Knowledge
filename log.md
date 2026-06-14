@@ -13,3 +13,6 @@ Compilation du PDF AFREPP constipation-SGUM en source-summary + entités (consti
 
 ## [2026-06-14] compile | AFREPP — Allaitement, Césarienne, LOSA, Rééducation Post-Partum
 Compilation du PDF AFREPP allaitement-césarienne en source-summary + entités (allaitement et périnée, LOSA, rééducation post-partum).
+
+## [2026-06-14] compile | AFREPP — Fissure Anale, Vaginoplastie et Patients Transgenres
+Compilation du PDF AFREPP fissure-vaginoplastie en source-summary + 4 entités : fissure anale, patients transgenres, vaginoplastie-et-perinee, endometriose-chirurgie.
