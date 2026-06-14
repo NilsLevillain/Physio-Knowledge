@@ -4,3 +4,12 @@
 ## [YYYY-MM-DD] ingest | Title
 One-line description.
 -->
+
+## [2026-06-14] compile | AFREPP — Troubles Ano-Rectaux, Grossesse, Péridurale, Incontinence
+Compilation du PDF AFREPP ano-rectal-grossesse en source-summary + entités liées (incontinence fécale, nerf pudendal, plancher pelvien).
+
+## [2026-06-14] compile | AFREPP — Constipation, Rectocèle, Prolapsus Rectal, SGUM, THM
+Compilation du PDF AFREPP constipation-SGUM en source-summary + entités (constipation fonctionnelle, rectocèle, prolapsus rectal interne, SGUM, THM et cancers).
+
+## [2026-06-14] compile | AFREPP — Allaitement, Césarienne, LOSA, Rééducation Post-Partum
+Compilation du PDF AFREPP allaitement-césarienne en source-summary + entités (allaitement et périnée, LOSA, rééducation post-partum).
