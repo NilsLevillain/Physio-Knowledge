@@ -1,0 +1,4 @@
+collections:
+  physio_knowledge:
+    path: ./wiki
+    pattern: "**/*.md"
