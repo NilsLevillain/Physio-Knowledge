@@ -2,6 +2,9 @@
 
 Last updated: 2026-06-15
 
+## Sources Pessaire (MyLittlePessaire / Foeminine)
+- [[pessaire-mylittlepessaire-foeminine]] -- Guide patient + anti-sèche 9 modèles + protocole essai cabinet + éducation thérapeutique + compatibilité (DIU, règles, grossesse)
+
 ## Sources AFU
 - [[afu-119-biofeedback-palliatifs-pessaire-aspi]] -- Biofeedback EBP, palliatifs IU, pessaire (HAS 2021), ASPI et rôle kiné (119e CFU)
 - [[afu-118-sdu-agents-comblants]] -- Syndrome Douloureux Urétral complet, agents comblants, accès direct kiné (118e CFU 2024)
@@ -25,7 +28,7 @@ Last updated: 2026-06-15
 - [[syndrome-douloureux-uretral]] -- Douleur urétrale chronique sans infection ; sensibilisation périphérique et centrale ; PEC kiné (2026-06-15)
 
 ## Traitements Urologiques
-- [[pessaire]] -- 1ère intention HAS 2021 tout prolapsus ; algorithme de choix SIFUDPP ; code LPPR 1118040 (2026-06-15)
+- [[pessaire]] -- 1ère intention HAS 2021 tout prolapsus ; tableau sélection 9 modèles ; effet pelote ; protocole essai cabinet (2026-06-15)
 - [[biofeedback]] -- EMG/manométrique/échographique ; Grade D prolapsus ; Grade C post-partum ; Grade B IF (2026-06-15)
 - [[auto-sondage-intermittent]] -- ASPI ; rôle kiné (protocole coopération HPST 2009) ; astuce fesses/orteils (2026-06-15)
 - [[dispositifs-de-continence-palliatifs]] -- Étui pénien, collecteurs, intra-urétraux, intra-vaginaux, PureWick ; LOE ICS 2024 (2026-06-15)
@@ -37,6 +40,9 @@ Last updated: 2026-06-15
 - [[prolapsus-rectal-interne]] -- Intussusception rectale ; stades, IA, constipation (2026-06-14)
 - [[prolapsus-rectal]] -- Classification complète, BDK, chirurgie (ventropexie), adhérence (2026-06-14)
 - [[fissure-anale]] -- Fissure chronique, algorithme de PEC, cicatrisation 8-12 semaines (2026-06-14)
+
+## Prolapsus
+- [[prolapsus-genital]] -- POP : cystocèle/hystérocèle/rectocèle/élytrocèle ; effet pelote ; épidémiologie (1F/2) ; HAS 2021 ; 3 options thérapeutiques
 
 ## Gynécologie & Chirurgie
 - [[endometriose-chirurgie]] -- Tableau HAS chirurgical par localisation (2026-06-14)

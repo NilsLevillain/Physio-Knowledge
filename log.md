@@ -31,3 +31,9 @@ Source summary + 7 entités nouvelles : incontinence-urinaire, retention-urinair
 
 ## [2026-06-15] compile | AFU 118e CFU 2024 — Syndrome Douloureux Urétral, Agents Comblants
 Source summary + 1 entité nouvelle : syndrome-douloureux-uretral (physiopathologie complète, sensibilisation périphérique et centrale, PEC kiné BPS). Accès direct kiné (8 séances sans ordonnance) documenté.
+
+## [2026-06-15] compile | Pessaire — MyLittlePessaire (Guide Patient + Anti-sèche) & Foeminine (Essai Cabinet)
+3 PDFs ingérés : guide patient MyLittlePessaire, anti-sèche professionnels, webinaire Foeminine. Source-summary combinée : pessaire-mylittlepessaire-foeminine.md. Nouveau concept : prolapsus-genital.md (classification, épidémiologie, effet pelote). Mise à jour pessaire.md : 9 modèles, tableau retrait/facilité/sexualité, effet pelote, protocole essai cabinet complet, éducation patiente, compatibilité DIU/règles/grossesse.
+
+## [2026-06-15] reorganize | Wiki — Création sous-dossiers concepts/ et sources/
+Tous les fichiers wiki déplacés : source-summaries → wiki/sources/ (9 fichiers), pages de concepts/traitements → wiki/concepts/ (31 fichiers). Index mis à jour. Wikilinks non affectés (Obsidian résolution par nom de fichier).
