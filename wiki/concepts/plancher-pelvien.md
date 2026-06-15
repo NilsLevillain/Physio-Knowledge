@@ -36,11 +36,21 @@ Ensemble musculo-ligamentaire et fascial fermant le bas du bassin, soutenant les
 - [[sgum]]
 - Douleurs pelviennes chroniques (iceberg : ce qui est visible ≪ ce qui est sous-jacent)
 
+### Unité interne et biomécanique du tronc
+Le plancher pelvien fait partie de l'**unité interne** (caisson hydropneumatique) avec :
+- Diaphragme (supérieur) · Muscles spinaux/multifides (postérieur) · Transverse/paroi abdominale (antérieur)
+- Rôle : ajustements posturaux anticipateurs, stabilisation du tronc, gestion de la [[pression-intra-abdominale]]
+
+Chez le sujet sain, le MPP présente une capacité de contraction **anticipatoire réflexe** avant les mouvements. Un déficit de contrôle moteur (IUE, post-PR) entraîne un **retard d'activation** des MPP.
+
+Voir [[pression-intra-abdominale]] pour le détail de la biomécanique du tronc, du rôle du transverse et du diaphragme.
+
 ### Principe thérapeutique
 - Rééducation musculaire → voir [[reeducation-post-partum]]
 - Éducation posturale (contre pesanteur, squatty potty, gestion des pressions)
 - Traitement hormonal local → voir [[sgum]]
 - Chirurgie (POP, [[prolapsus-rectal-interne]], rectopexie)
+- Post-prostatectomie radicale → voir [[cancer-prostate-reeducation]]
 
 ## See Also
 - [[nerf-pudendal]]
@@ -49,6 +59,8 @@ Ensemble musculo-ligamentaire et fascial fermant le bas du bassin, soutenant les
 - [[reeducation-post-partum]]
 - [[losa]]
 - [[sgum]]
+- [[pression-intra-abdominale]]
+- [[cancer-prostate-reeducation]]
 
 ## Counter-Arguments and Gaps
 - La rééducation périnéale "systématique" post-partum est remise en question par les recommandations actuelles (non recommandée en l'absence de symptômes).

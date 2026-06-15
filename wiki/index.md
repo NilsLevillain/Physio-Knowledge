@@ -1,6 +1,6 @@
 # physio_knowledge Wiki Index
 
-Last updated: 2026-06-15
+Last updated: 2026-06-16
 
 ## Sources Pessaire (MyLittlePessaire / Foeminine)
 - [[pessaire-mylittlepessaire-foeminine]] -- Guide patient + anti-sèche 9 modèles + protocole essai cabinet + éducation thérapeutique + compatibilité (DIU, règles, grossesse)
@@ -8,6 +8,9 @@ Last updated: 2026-06-15
 ## Sources AFU
 - [[afu-119-biofeedback-palliatifs-pessaire-aspi]] -- Biofeedback EBP, palliatifs IU, pessaire (HAS 2021), ASPI et rôle kiné (119e CFU)
 - [[afu-118-sdu-agents-comblants]] -- Syndrome Douloureux Urétral complet, agents comblants, accès direct kiné (118e CFU 2024)
+
+## Sources AFRePP – Cancer de la Prostate
+- [[afrepp-cancer-prostate-reeducation]] -- ETP, RAAC, rééducation post-PR, biomécanique PIA, facteurs prédictifs IU post-PR (Mars 2024)
 
 ## Sources AFREPP
 - [[afrepp-troubles-ano-rectaux-grossesse]] -- Troubles ano-rectaux, grossesse, péridurale, incontinence (2026-06-14)
@@ -18,9 +21,15 @@ Last updated: 2026-06-15
 - [[afrepp-prolapsus-rectal]] -- Classification, BDK complet, chirurgie, adhérence thérapeutique (2026-06-14)
 - [[afrepp-excision-vaginisme-vulvodynie-endometriose]] -- MSF, vaginisme EBP, sensibilisation centrale pelvienne (2026-06-14)
 
+## Biomécanique & Physiologie
+- [[pression-intra-abdominale]] -- Caisson hydropneumatique, unité interne, transverse, diaphragme, PIA et continence (2026-06-16)
+
 ## Anatomie & Physiologie
 - [[plancher-pelvien]] -- Concept pivot : muscles, ligaments, innervation périnéale (2026-06-14)
 - [[nerf-pudendal]] -- Innervation S2-S4 du périnée ; compression obstétricale (2026-06-14)
+
+## Urologie & Continence Masculine
+- [[cancer-prostate-reeducation]] -- ETP, RAAC, rééducation post-prostatectomie radicale, facteurs prédictifs IU (2026-06-16)
 
 ## Urologie & Continence
 - [[incontinence-urinaire]] -- IUE/IUU/mixte ; efficacité traitements curatifs ; quand proposer les palliatifs (2026-06-15)

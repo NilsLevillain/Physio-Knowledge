@@ -37,3 +37,6 @@ Source summary + 1 entité nouvelle : syndrome-douloureux-uretral (physiopatholo
 
 ## [2026-06-15] reorganize | Wiki — Création sous-dossiers concepts/ et sources/
 Tous les fichiers wiki déplacés : source-summaries → wiki/sources/ (9 fichiers), pages de concepts/traitements → wiki/concepts/ (31 fichiers). Index mis à jour. Wikilinks non affectés (Obsidian résolution par nom de fichier).
+
+## [2026-06-16] compile | AFRePP – Rééducation post-prostatectomie radicale et biomécanique pelvienne (Notes_240323)
+Source summary + 2 entités nouvelles : cancer-prostate-reeducation (ETP, RAAC, facteurs prédictifs IU post-PR, protocole), pression-intra-abdominale (caisson hydropneumatique, unité interne, transverse, diaphragme, PIA et plancher pelvien). Mise à jour : plancher-pelvien (unité interne), incontinence-urinaire (spécificités post-PR).

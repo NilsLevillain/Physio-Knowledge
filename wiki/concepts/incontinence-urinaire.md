@@ -18,6 +18,15 @@ Perte involontaire d'urine constituant un problème social ou hygiénique (ICS).
 ## Épidémiologie
 Prévalence élevée et **très sous-déclarée**. Concerne : femmes de tout âge (principalement), hommes post-prostatectomie, personnes âgées des deux sexes, patients neurologiques.
 
+## IU post-prostatectomie radicale (spécificités)
+IU précoce post-PR : souvent transitoire (dyssynergie vésico-sphinctérienne). Si persistante à 1 an (< 5 % des cas) → injections infrasphincériennes, ballonnets péri-urétraux, BSU, sphincter artificiel.
+
+**Facteurs prédictifs principaux** (Olagundoye et al. 2023) : âge, IMC, HAV pré-opératoire, ↓ fonction urétrale, lésion nerf pudendal, expérience chirurgien.
+
+**Spécificité biomécanique chez l'homme** : retard d'activation des MPP lors d'IUE ; SSU et bulbo-spongieux doivent se contracter avant le pubo-rectal. La gestion de la [[pression-intra-abdominale]] est centrale dans la rééducation.
+
+Voir [[cancer-prostate-reeducation]] pour le protocole complet.
+
 ## Efficacité des traitements curatifs
 | Traitement | Efficacité |
 |---|---|
@@ -60,4 +69,4 @@ Voir [[dispositifs-de-continence-palliatifs]].
 - Rééducation périnéale : efficace dans 30-50 % des cas — suffisant pour orienter vers les palliatifs si échec partiel
 
 ## Concepts liés
-[[plancher-pelvien]] · [[biofeedback]] · [[pessaire]] · [[dispositifs-de-continence-palliatifs]] · [[auto-sondage-intermittent]] · [[reeducation-post-partum]] · [[sgum]] · [[losa]] · [[syndrome-douloureux-uretral]]
+[[plancher-pelvien]] · [[biofeedback]] · [[pessaire]] · [[dispositifs-de-continence-palliatifs]] · [[auto-sondage-intermittent]] · [[reeducation-post-partum]] · [[sgum]] · [[losa]] · [[syndrome-douloureux-uretral]] · [[cancer-prostate-reeducation]] · [[pression-intra-abdominale]]
