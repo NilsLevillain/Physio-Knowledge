@@ -40,3 +40,6 @@ Tous les fichiers wiki déplacés : source-summaries → wiki/sources/ (9 fichie
 
 ## [2026-06-16] compile | AFRePP – Rééducation post-prostatectomie radicale et biomécanique pelvienne (Notes_240323)
 Source summary + 2 entités nouvelles : cancer-prostate-reeducation (ETP, RAAC, facteurs prédictifs IU post-PR, protocole), pression-intra-abdominale (caisson hydropneumatique, unité interne, transverse, diaphragme, PIA et plancher pelvien). Mise à jour : plancher-pelvien (unité interne), incontinence-urinaire (spécificités post-PR).
+
+## [2026-06-16] compile | CFU 118e — Cadre Médico-Légal, Télésoin et Communication Prescripteur (SNCUF)
+Source summary + 3 entités nouvelles : cadre-medicolegal-kinesitherapie (articles CSP, contrat de soin, consentement éclairé TR/TV, RGPD, prévention mises en cause), telesoin-kinesitherapie (cadre réglementaire 20%, pyramide 4 niveaux), communication-kine-prescripteur (bilan périnéo-sphinctérien standardisé, fiche de liaison fin de prescription).

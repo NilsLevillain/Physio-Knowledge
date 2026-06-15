@@ -8,6 +8,7 @@ Last updated: 2026-06-16
 ## Sources AFU
 - [[afu-119-biofeedback-palliatifs-pessaire-aspi]] -- Biofeedback EBP, palliatifs IU, pessaire (HAS 2021), ASPI et rôle kiné (119e CFU)
 - [[afu-118-sdu-agents-comblants]] -- Syndrome Douloureux Urétral complet, agents comblants, accès direct kiné (118e CFU 2024)
+- [[afu-118-medicolegal-telesoin-prescripteur]] -- Cadre médico-légal périnéologie, consentement TR/TV, RGPD, télésoin 20%, communication prescripteur (118e CFU, SNCUF)
 
 ## Sources AFRePP – Cancer de la Prostate
 - [[afrepp-cancer-prostate-reeducation]] -- ETP, RAAC, rééducation post-PR, biomécanique PIA, facteurs prédictifs IU post-PR (Mars 2024)
@@ -30,6 +31,11 @@ Last updated: 2026-06-16
 
 ## Urologie & Continence Masculine
 - [[cancer-prostate-reeducation]] -- ETP, RAAC, rééducation post-prostatectomie radicale, facteurs prédictifs IU (2026-06-16)
+
+## Cadre Légal & Pratique Professionnelle
+- [[cadre-medicolegal-kinesitherapie]] -- Articles CSP, Arrêt Mercier, consentement éclairé TR/TV, RGPD, prévention mises en cause (2026-06-16)
+- [[telesoin-kinesitherapie]] -- Télésoin : max 20% actes conventionnés, pyramide 4 niveaux, cadre réglementaire 2021 (2026-06-16)
+- [[communication-kine-prescripteur]] -- Bilan périnéo-sphinctérien standardisé, fiche de liaison fin de prescription (2026-06-16)
 
 ## Urologie & Continence
 - [[incontinence-urinaire]] -- IUE/IUU/mixte ; efficacité traitements curatifs ; quand proposer les palliatifs (2026-06-15)
