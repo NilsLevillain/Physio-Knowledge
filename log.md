@@ -25,3 +25,9 @@ Compilation du PDF AFREPP prolapsus-rectal en source-summary + 1 entité complè
 
 ## [2026-06-14] compile | AFREPP — Excision, Vaginisme, Vulvodynie et Endométriose
 Compilation du PDF AFREPP compressé en source-summary + 3 entités : mutilations-sexuelles-feminines, vaginisme (EBP complet), sensibilisation-centrale-pelvienne. Mise à jour vulvodynies.
+
+## [2026-06-15] compile | AFU 119e CFU — Biofeedback, Palliatifs IU, Pessaire, ASPI
+Source summary + 7 entités nouvelles : incontinence-urinaire, retention-urinaire-fonctionnelle, pessaire (HAS 2021, code LPPR 1118040), biofeedback (grades EBP), auto-sondage-intermittent (protocole coopération HPST), dispositifs-de-continence-palliatifs (ICS 2024).
+
+## [2026-06-15] compile | AFU 118e CFU 2024 — Syndrome Douloureux Urétral, Agents Comblants
+Source summary + 1 entité nouvelle : syndrome-douloureux-uretral (physiopathologie complète, sensibilisation périphérique et centrale, PEC kiné BPS). Accès direct kiné (8 séances sans ordonnance) documenté.

@@ -1,6 +1,10 @@
 # physio_knowledge Wiki Index
 
-Last updated: 2026-06-14
+Last updated: 2026-06-15
+
+## Sources AFU
+- [[afu-119-biofeedback-palliatifs-pessaire-aspi]] -- Biofeedback EBP, palliatifs IU, pessaire (HAS 2021), ASPI et rôle kiné (119e CFU)
+- [[afu-118-sdu-agents-comblants]] -- Syndrome Douloureux Urétral complet, agents comblants, accès direct kiné (118e CFU 2024)
 
 ## Sources AFREPP
 - [[afrepp-troubles-ano-rectaux-grossesse]] -- Troubles ano-rectaux, grossesse, péridurale, incontinence (2026-06-14)
@@ -14,6 +18,17 @@ Last updated: 2026-06-14
 ## Anatomie & Physiologie
 - [[plancher-pelvien]] -- Concept pivot : muscles, ligaments, innervation périnéale (2026-06-14)
 - [[nerf-pudendal]] -- Innervation S2-S4 du périnée ; compression obstétricale (2026-06-14)
+
+## Urologie & Continence
+- [[incontinence-urinaire]] -- IUE/IUU/mixte ; efficacité traitements curatifs ; quand proposer les palliatifs (2026-06-15)
+- [[retention-urinaire-fonctionnelle]] -- Dyssynergie vésico-sphinctérienne, rétention idiopathique, modèle BPS (2026-06-15)
+- [[syndrome-douloureux-uretral]] -- Douleur urétrale chronique sans infection ; sensibilisation périphérique et centrale ; PEC kiné (2026-06-15)
+
+## Traitements Urologiques
+- [[pessaire]] -- 1ère intention HAS 2021 tout prolapsus ; algorithme de choix SIFUDPP ; code LPPR 1118040 (2026-06-15)
+- [[biofeedback]] -- EMG/manométrique/échographique ; Grade D prolapsus ; Grade C post-partum ; Grade B IF (2026-06-15)
+- [[auto-sondage-intermittent]] -- ASPI ; rôle kiné (protocole coopération HPST 2009) ; astuce fesses/orteils (2026-06-15)
+- [[dispositifs-de-continence-palliatifs]] -- Étui pénien, collecteurs, intra-urétraux, intra-vaginaux, PureWick ; LOE ICS 2024 (2026-06-15)
 
 ## Pathologies Ano-Rectales
 - [[incontinence-fecale]] -- IF obstétricale et fonctionnelle ; sous-déclaration majeure (2026-06-14)

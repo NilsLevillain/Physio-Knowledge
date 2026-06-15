@@ -1,142 +1,98 @@
-# physio_knowledge Wiki Schema
+# Pelvic Floor Physiotherapy Knowledge Base
+
+## Mission
+
+Long-term clinical knowledge graph for pelvic floor and ano-rectal physiotherapy. Markdown files are the source of truth. Goal: durable, interconnected clinical knowledge — not a collection of summaries.
+
+Must stay: human-readable, LLM-readable, Git-friendly, Obsidian-friendly.
+
+## Domain Scope
+
+**Primary:** pelvic floor physiotherapy, ano-rectal disorders, urinary/fecal incontinence, pelvic organ prolapse, chronic pelvic pain, sexual dysfunction, constipation, postpartum rehabilitation, women's health, pediatric perineal care, transgender care.
+
+**Secondary:** anatomy, biomechanics, pain science, behavioral interventions, evidence-based practice.
 
 ## Directory Layout
-- raw/              -- immutable source drops. Never edit files here.
-- raw/articles/     -- text source documents (articles, papers, transcripts).
-- raw/attachments/  -- images and binary attachments.
-- wiki/             -- LLM-owned pages. You have full write access here.
-- wiki/index.md     -- catalog. Read this FIRST before opening any other page.
-- wiki/queries/     -- filed query answers. Promote to wiki/ when durable.
-- outputs/reports/  -- dated lint reports and other artifacts.
-- log.md            -- append-only operation log. Never edit existing entries.
 
-## Entity Types and Templates
+```
+raw/articles/      # PDFs, papers, conference proceedings (immutable)
+raw/attachments/   # Images and binary files
+wiki/              # Knowledge graph
+wiki/index.md      # Catalog of all pages
+wiki/queries/      # Temporary query outputs
+outputs/reports/   # Lint and maintenance reports
+log.md             # Append-only operation log
+```
 
-### concept.md
+## Core Principles
+
+- **Files are memory.** Never rely on conversation history. Persist knowledge into markdown.
+- **Update before creating.** Search existing pages first. Prefer updating over creating.
+- **One concept = one page.** `stress-urinary-incontinence.md` ✓ — `sui.md`, `stress-incontinence.md` ✗
+- **Build relationships.** Pages should link to related anatomy, assessments, treatments, concepts. A page in isolation is incomplete.
+- **Clinical utility first.** Practical over verbose. Preserve evidence levels and nuance.
+
+## Note Types & Frontmatter
+
+All notes use:
+```yaml
 ---
 date: YYYY-MM-DD
-tags: [domain]
-type: concept
+type: concept | anatomy | assessment | treatment | clinical-case | guideline | patient-faq | source-summary
 status: active
+tags: []
 ---
-# Concept Name
-<one-paragraph summary>
+```
 
-## Details
-...
-
-## See Also
-- [[related-concept]]
-
-## Counter-Arguments and Gaps
-...
-
-### person.md
----
-date: YYYY-MM-DD
-tags: [domain, person]
-type: person
-status: active
----
-# Person Name
-Role / affiliation.
-
-## Key Contributions
-...
-
-## See Also
-- [[related-concept]]
-
-### source-summary.md
----
-date: YYYY-MM-DD
-tags: [domain]
-type: source-summary
-source-url: https://...
----
-# Source Title
-One-paragraph summary.
-
-## Key Points
-...
-
-## Entities Mentioned
-- [[person-or-concept]]
-
-## Slides
-To export as a Marp slide deck, add `marp: true` to frontmatter and run:
-  "${MARP}" wiki/<filename>.md -o output.html
-
-### query-output.md
----
-date: YYYY-MM-DD
-tags: [domain]
-type: query-output
-question: "<original question>"
-status: filed
----
-# <Question as title>
-<synthesized answer>
-
-## Sources
-- [[page-1]]
-- [[page-2]]
+| Type | Use for | Key sections |
+|---|---|---|
+| `concept` | Conditions, symptoms, mechanisms | Definition · Epidemiology · Risk Factors · Mechanisms · Symptoms · Assessment · Treatment · Clinical Pearls · Evidence Notes · Related Concepts |
+| `anatomy` | Anatomical structures | Structure · Anatomy · Function · Clinical Relevance · Related Conditions |
+| `assessment` | Tests, scales, examinations | Purpose · Procedure · Interpretation · Limitations · Related Conditions |
+| `treatment` | Interventions, protocols | Indications · Contraindications · Protocol · Evidence · Clinical Pearls |
+| `clinical-case` | Real patient scenarios | Patient Profile · Symptoms · Assessment · Differential · Treatment Plan · Follow-Up · Learning Points |
+| `guideline` | Official recommendations | Scope · Recommendations · Evidence Levels · Related Concepts |
+| `patient-faq` | Common patient questions | Short Answer · Clinical Explanation · Practical Advice · When To Seek Help |
+| `source-summary` | Ingested sources | Citation · Summary · Key Findings · Clinical Recommendations · Evidence Level · Related Concepts |
 
 ## Naming Conventions
-- All filenames: lowercase-kebab-case.md
-- Wikilinks: [[filename-without-extension]]
-- Never use standard markdown links for internal links
 
-## Log Format
-Append to log.md after every operation. Format:
-  ## [YYYY-MM-DD] <operation> | <title>
-  <one-line description>
+- Lowercase kebab-case filenames only: `levator-ani.md`, `pelvic-floor-muscle-training.md`
+- No abbreviations in filenames — abbreviations belong inside content
+- Wiki is primarily in **French** (reflecting source material)
 
-Operations: ingest | compile | query | lint | promote | remove
+## Linking Rules
 
-## Index Format
-wiki/index.md is a human- and LLM-readable catalog. Format:
-  ## Domain Name
-  - [[page-name]] -- one-line description (YYYY-MM-DD)
+- Use Obsidian wikilinks only: `[[stress-urinary-incontinence]]` ✓ — plain text ✗
+- Every page should link to relevant anatomy, assessments, treatments, guidelines, and concepts
 
-Keep entries under 80 chars. Update after every ingest.
+## Source Ingestion Workflow
 
-## Cross-Reference Rules
-- Every page must link to at least one other page when content warrants it
-- When creating or updating a concept page, scan index.md for related entities and add [[wikilinks]]
-- Flag contradictions inline: > [!WARNING] Contradiction with [[other-page]]
+1. Read source → create/update `source-summary`
+2. Extract: concepts, anatomy, assessments, treatments, guidelines
+3. Update existing pages before creating new ones
+4. Update `wiki/index.md`
+5. Append entry to `log.md`
 
-## Ingest Rules
-1. Acquire the source (URL or file)
-2. Classify the source type
-3. Save to raw/articles/ with frontmatter (compiled: false)
-4. Append to log.md
-5. Commit
-Ingest does NOT create wiki pages. Use compile for that.
+Always distinguish evidence quality: high / moderate / low / expert opinion.
 
-## Compile Rules
-1. Identify uncompiled raw sources (no matching source-summary in wiki/)
-2. For each source: write source-summary, extract entities, create/update pages
-3. Backlink audit: grep existing pages for mentions of new titles
-4. Update wiki/index.md
-5. Append to log.md
-6. Commit
-One source typically touches 5-15 pages. This is normal.
+## Query Workflow
 
-## Query Rules
-1. Read wiki/index.md first
-2. Open relevant pages
-3. Synthesize answer with [[wikilinks]] as citations
-4. Always file answer to wiki/queries/ (mandatory, no prompt)
-5. Offer promotion to wiki/ as a concept page (y/n)
-6. Append to log.md (both query and optional promote events)
-7. Commit changes
+1. Read `wiki/index.md`
+2. Navigate linked pages
+3. Synthesize answer with wikilink citations
+4. Save output to `wiki/queries/`
+5. Suggest promoting durable findings to permanent pages
 
-## Lint Rules
-Scan all pages in wiki/ and report:
-- Contradictions between pages
-- Orphan pages (no inbound [[links]])
-- Pages with status: stale older than 90 days
-- Missing Counter-Arguments and Gaps section
-- Index entries pointing to missing files
-After fixing, append to log.md and commit.
+## Lint Checks
+
+Report: orphan pages, duplicate concepts, broken links, missing backlinks, missing source references, contradictory recommendations, empty sections.
+
+## Logging
+
+Append-only. Format: `YYYY-MM-DD | operation | title` + one-line description.
+Operations: `ingest` · `compile` · `query` · `promote` · `lint` · `remove`
+
+## Git Rules
+
+Do not commit unless explicitly requested. The repository owner controls commits.
