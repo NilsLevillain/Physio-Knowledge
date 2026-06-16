@@ -51,21 +51,47 @@ Hernie dans la cavité vaginale dans laquelle s'engagent un ou plusieurs éléme
 Le prolapsus peut exercer un effet obstructif au niveau de l'urètre, masquant une IUE sous-jacente ("incontinence masquée"). La correction du prolapsus repositionne les organes et peut alors révéler cette IUE. À rechercher systématiquement avant tout traitement (pessaire ou chirurgie). Manœuvre de soutènement sous-urétral lors de l'examen clinique.
 
 ## Options thérapeutiques
-Le choix du traitement dépend de la patiente — elle doit avoir toutes les informations éclairées.
+Le choix du traitement dépend de la patiente — elle doit avoir toutes les informations éclairées. Décision partagée patient-soignant.
 
-1. **Rééducation périnéale** : renforcement du plancher pelvien, gestion des pressions abdominales — agit sur les symptômes et prévient l'aggravation
-2. **[[pessaire]]** : 1ère intention HAS 2021 — dispositif intra-vaginal en silicone médical, efficacité immédiate équivalente à la chirurgie, réversible à tout moment, quelque soit l'âge et le stade
-3. **Chirurgie** : après échec des autres options ou à la demande éclairée de la patiente ; délai minimum 1 an post-partum
+### Mesures hygiéno-diététiques (associées à tous les traitements)
+- Perte de poids, alimentation équilibrée
+- Traitement de la [[constipation-fonctionnelle]] et technique défécatoire adaptée (éviter les poussées abdominales)
+- Gestion du port de charges (verrouillage périnéal)
+- Contrôle de la toux chronique
+- Activité physique adaptée (sans hyperpression)
+
+### Traitements conservateurs (1ère intention)
+1. **Rééducation périnéale** : renforcement du plancher pelvien, gestion des pressions abdominales — seule si prolapsus modéré (stades I-II), en association avec pessaire si stade avancé
+2. **[[pessaire]]** : 1ère intention HAS 2021 — dispositif intra-vaginal en silicone médical, efficacité immédiate équivalente à la chirurgie, réversible, adapté à tout âge et tout stade ; pose par médecin, sage-femme ou kinésithérapeute
+
+### Traitements chirurgicaux (si conservateurs insuffisants)
+
+| Technique | Voie | Prothèse | Remarques |
+|---|---|---|---|
+| Colporraphie autologue | Vaginale | Non | Sutures des ligaments/muscles du bassin |
+| Promontofixation | Abdominale (cœlioscopie) | Oui (synthétique) | Repositionnement des organes en hauteur |
+| Colpocléisis | Vaginale | Non | Fermeture définitive vagin — personnes âgées/fragiles |
+
+**Important** : prothèses synthétiques par voie vaginale **interdites en France** (depuis 2019).
+
+### Suivi post-chirurgical
+- Consultation post-opératoire systématique + suivi à 1 an
+- Reprise des activités physiques : **à partir de 3 semaines**
+- Reprise des rapports sexuels avec pénétration : **après 4 semaines**
+- Récidive possible (mois à années) — pas toujours symptomatique
+- Signes d'alarme post-prothèse : douleurs chroniques, saignements/pertes vaginales anormaux
 
 ## Evidence
 - **HAS 2021** : pessaire recommandé en 1ère intention pour tout prolapsus génital symptomatique, quelque soit l'âge et le stade ; efficacité équivalente à la chirurgie sur les symptômes
 - 70% de réussite du pessaire ; 90% d'adhésion si information adaptée
+- → [[has-prolapsus-genital-fiche-patient-2022]]
 
 ## Perles cliniques
 - Rassurer +++ : prolapsus ≠ urgence, ≠ cancer ; évolution lente ; nombreuses solutions efficaces
 - Toujours proposer les 3 options : rééducation, pessaire, chirurgie
 - Prolapsus asymptomatique n'impose pas de traitement
 - Rechercher l'effet pelote avant toute décision thérapeutique
+- Associer systématiquement les mesures hygiéno-diététiques à tout traitement
 
 ## Concepts liés
-[[pessaire]] · [[plancher-pelvien]] · [[rectocele]] · [[prolapsus-rectal]] · [[prolapsus-rectal-interne]] · [[incontinence-urinaire]] · [[biofeedback]] · [[reeducation-post-partum]]
+[[pessaire]] · [[plancher-pelvien]] · [[pression-intra-abdominale]] · [[rectocele]] · [[prolapsus-rectal]] · [[prolapsus-rectal-interne]] · [[incontinence-urinaire]] · [[incontinence-fecale]] · [[constipation-fonctionnelle]] · [[biofeedback]] · [[reeducation-post-partum]] · [[sgum]]

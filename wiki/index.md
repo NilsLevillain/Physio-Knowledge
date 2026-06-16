@@ -2,6 +2,9 @@
 
 Last updated: 2026-06-16
 
+## Sources HAS
+- [[has-prolapsus-genital-fiche-patient-2022]] -- Fiche patient HAS (Avr 2022) : prolapsus génital, traitements conservateurs/chirurgicaux, suivi post-op, décision partagée (2026-06-16)
+
 ## Sources IPPP
 - [[ippp-lutte-contre-constipation]] -- Technique défécatoire physiologique, fibres, hydratation, massage abdominal, respiration diaphragmatique (IPPP)
 
@@ -63,7 +66,7 @@ Last updated: 2026-06-16
 - [[fissure-anale]] -- Fissure chronique, algorithme de PEC, cicatrisation 8-12 semaines (2026-06-14)
 
 ## Prolapsus
-- [[prolapsus-genital]] -- POP : cystocèle/hystérocèle/rectocèle/élytrocèle ; effet pelote ; épidémiologie (1F/2) ; HAS 2021 ; 3 options thérapeutiques
+- [[prolapsus-genital]] -- POP : cystocèle/hystérocèle/rectocèle/élytrocèle ; effet pelote ; épidémiologie (1F/2) ; HAS 2021 ; options thérapeutiques complètes + chirurgie (2026-06-16)
 
 ## Gynécologie & Chirurgie
 - [[endometriose-chirurgie]] -- Tableau HAS chirurgical par localisation (2026-06-14)

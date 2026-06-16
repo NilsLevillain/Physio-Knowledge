@@ -46,3 +46,6 @@ Source summary + 3 entités nouvelles : cadre-medicolegal-kinesitherapie (articl
 
 ## [2026-06-16] compile | IPPP — Lutte contre la constipation
 Source summary (ippp-lutte-contre-constipation) + 2 entités nouvelles : constipation-fonctionnelle (critères Rome IV, technique défécatoire physiologique vs Valsalva, posture, fibres, hydratation, suppositoires, massage, biofeedback), massage-abdominal (protocole 5 étapes, 3 mécanismes d'action, indication post-partum).
+
+## [2026-06-16] compile | HAS — Prolapsus génital de la femme : Des solutions pour le traiter (Avr 2022)
+Source summary (has-prolapsus-genital-fiche-patient-2022). Mise à jour de prolapsus-genital.md : tableau des 3 techniques chirurgicales (colporraphie autologue, promontofixation, colpocléisis), interdiction prothèses synthétiques voie vaginale, mesures hygiéno-diététiques, suivi post-chirurgical (3 sem activités, 4 sem rapports sexuels), signes d'alarme.
