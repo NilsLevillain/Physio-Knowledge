@@ -2,6 +2,9 @@
 
 Last updated: 2026-06-16
 
+## Sources IPPP
+- [[ippp-lutte-contre-constipation]] -- Technique défécatoire physiologique, fibres, hydratation, massage abdominal, respiration diaphragmatique (IPPP)
+
 ## Sources Pessaire (MyLittlePessaire / Foeminine)
 - [[pessaire-mylittlepessaire-foeminine]] -- Guide patient + anti-sèche 9 modèles + protocole essai cabinet + éducation thérapeutique + compatibilité (DIU, règles, grossesse)
 
@@ -42,6 +45,9 @@ Last updated: 2026-06-16
 - [[retention-urinaire-fonctionnelle]] -- Dyssynergie vésico-sphinctérienne, rétention idiopathique, modèle BPS (2026-06-15)
 - [[syndrome-douloureux-uretral]] -- Douleur urétrale chronique sans infection ; sensibilisation périphérique et centrale ; PEC kiné (2026-06-15)
 
+## Traitements Ano-Rectaux & Transit
+- [[massage-abdominal]] -- Protocole en 5 étapes ; mécanismes mécanique/réflexe/circulatoire ; constipation et post-partum (2026-06-16)
+
 ## Traitements Urologiques
 - [[pessaire]] -- 1ère intention HAS 2021 tout prolapsus ; tableau sélection 9 modèles ; effet pelote ; protocole essai cabinet (2026-06-15)
 - [[biofeedback]] -- EMG/manométrique/échographique ; Grade D prolapsus ; Grade C post-partum ; Grade B IF (2026-06-15)
@@ -50,7 +56,7 @@ Last updated: 2026-06-16
 
 ## Pathologies Ano-Rectales
 - [[incontinence-fecale]] -- IF obstétricale et fonctionnelle ; sous-déclaration majeure (2026-06-14)
-- [[constipation-fonctionnelle]] -- Critères Rome IV, ménopause, liens statique pelvienne (2026-06-14)
+- [[constipation-fonctionnelle]] -- Critères Rome IV, ménopause, technique défécatoire, fibres, massage, biofeedback (2026-06-16)
 - [[rectocele]] -- Hernie rectale antérieure ; dyschésie, manœuvres, prise en charge (2026-06-14)
 - [[prolapsus-rectal-interne]] -- Intussusception rectale ; stades, IA, constipation (2026-06-14)
 - [[prolapsus-rectal]] -- Classification complète, BDK, chirurgie (ventropexie), adhérence (2026-06-14)

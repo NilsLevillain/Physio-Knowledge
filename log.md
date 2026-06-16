@@ -43,3 +43,6 @@ Source summary + 2 entités nouvelles : cancer-prostate-reeducation (ETP, RAAC, 
 
 ## [2026-06-16] compile | CFU 118e — Cadre Médico-Légal, Télésoin et Communication Prescripteur (SNCUF)
 Source summary + 3 entités nouvelles : cadre-medicolegal-kinesitherapie (articles CSP, contrat de soin, consentement éclairé TR/TV, RGPD, prévention mises en cause), telesoin-kinesitherapie (cadre réglementaire 20%, pyramide 4 niveaux), communication-kine-prescripteur (bilan périnéo-sphinctérien standardisé, fiche de liaison fin de prescription).
+
+## [2026-06-16] compile | IPPP — Lutte contre la constipation
+Source summary (ippp-lutte-contre-constipation) + 2 entités nouvelles : constipation-fonctionnelle (critères Rome IV, technique défécatoire physiologique vs Valsalva, posture, fibres, hydratation, suppositoires, massage, biofeedback), massage-abdominal (protocole 5 étapes, 3 mécanismes d'action, indication post-partum).
